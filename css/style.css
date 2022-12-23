@@ -3,7 +3,7 @@ body {
     font-family: helvetica, ariel, sans-serif;
     font-size: 20px;
     line-height: 25px;
-    background-image: url(../img/wallpaper3.jpg);
+    background-image: url(../img/background-image.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -12,11 +12,11 @@ body {
 }
 
 header {
-    background-color: rgba(255, 255, 255, 0.05);
+    /* background-color: rgba(255, 255, 255, 0.05); */
     text-align: center;
     padding-bottom: 10px;
     padding-top: 10px;
-    text-shadow: 2px 2px black;
+    /* text-shadow: 2px 2px black; */
 
 }
 
@@ -28,7 +28,7 @@ header h1 {
 h1,
 h2 {
     color: #f85c1c;
-    font-family: 'Ranchers'
+    font-family: 'Poppins'
 }
 
 /*Header*/
@@ -52,7 +52,7 @@ footer {
 
 main p {
     text-align: left;
-    text-shadow: 1.5px 1.5px black;
+    /* text-shadow: 1.5px 1.5px black; */
 }
 
 ol {
