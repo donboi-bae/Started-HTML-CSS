@@ -83,3 +83,17 @@ footer a:hover {
 footer p {
     color: white;
 }
+
+.quote {
+    padding: 0px;
+    color: #EA1B60;
+    text-align: center;
+}
+
+.hover:hover {
+    color: rgba(255, 156, 0, 100);
+}
+
+.hover2:hover {
+    color: rgb(255, 215, 0, 100);
+}
