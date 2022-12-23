@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: helvetica, ariel, sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    background-image: url(../img/wallpaper3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-kerning: auto;
+
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.05);
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-shadow: 2px 2px black;
+
+}
+
+header h1 {
+    color: white;
+    font-size: 50px;
+}
+
+h1,
+h2 {
+    color: #f85c1c;
+    font-family: 'Ranchers'
+}
+
+/*Header*/
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+main img {
+    max-width: 100%;
+    align-content: center;
+}
+
+footer {
+    background-color: rgba(177, 15, 69, 100);
+    text-align: center;
+    padding: 25px;
+}
+
+main p {
+    text-align: left;
+    text-shadow: 1.5px 1.5px black;
+}
+
+ol {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+main a:hover {
+    color: hotpink;
+}
+
+main a:link {
+    color: #EA1B60;
+}
+
+main p {
+    color: #EA1B60;
+}
+
+footer a:hover {
+    opacity: 80;
+    background-color: transparent;
+}
+
+footer p {
+    color: white;
+}
